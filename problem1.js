@@ -6,5 +6,6 @@ const rotateLeft = (array, number) => {
     return array;
 }
 
-const result = rotateLeft([1, 2, 3, 4, 5], 4)
+// const result = rotateLeft([1, 2, 3, 4, 5], 4)
+const result = rotateLeft([1, 2, 3, 4, 5], 2)
 console.log(result);
